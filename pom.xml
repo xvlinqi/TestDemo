@@ -10,6 +10,7 @@
         <module>MavenText_LikeApi</module>
         <module>MavenText_LikeProvider</module>
         <module>MavenText_CartProvider</module>
+        <module>MavenText_OrderProvider</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
